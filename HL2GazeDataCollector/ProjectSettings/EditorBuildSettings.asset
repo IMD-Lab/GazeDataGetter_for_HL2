@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MRTK/Examples/Demos/EyeTracking/Scenes/EyeTrackingDemo-05-Visualizer.unity
+    guid: 2d6c43a82f3a88c4dbdc3b5e99a68d8a
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: db88f3c8efcfeb14697aa5e96d36d0c4, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 39db8b278dd18794c92ca0d0c8244117, type: 2}
